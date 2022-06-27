@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=I'm%20Sangyeong&animation=fadeIn&fontAlignY=40&desc=Welcom%20to%20my%20workspace&descSize=28&descAlignY=56)
+![header](https://capsule-render.vercel.app/api?height=300&color=auto&text=I'm%20Sangyeong&animation=fadeIn&fontAlignY=30&desc=Welcom%20to%20my%20workspace&descSize=28&descAlignY=46)
 
 
 

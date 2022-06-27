@@ -1,12 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=40&desc=I'm%20SangYeong&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?height=400&text=I'm%20Sangyeong&animation=fadeIn&fontAlignY=40&desc=Welcom%20to%20my%20workspace&descSize=28&descAlignY=56)
 
 
 
 
-### Hi there 👋
+
 
 <!--
 **Sang-Yeong/Sang-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 

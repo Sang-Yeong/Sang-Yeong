@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?height=300&color=auto&text=I'm%20Sangyeong&animation=fadeIn&fontAlignY=30&desc=Welcom%20to%20my%20workspace&descSize=28&descAlignY=46)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=I'm%20Sangyeong&animation=twinkling&fontAlignY=40)
+
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSang-Yeong&count_bg=%23EED0E7&title_bg=%23B0ACAC&icon=&icon_color=%23E7E7E7&title=Welcome+to+my+workspace&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 
 

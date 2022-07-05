@@ -3,7 +3,7 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSang-Yeong&count_bg=%23EED0E7&title_bg=%23B0ACAC&icon=&icon_color=%23E7E7E7&title=Welcome+to+my+workspace&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSang-Yeong&count_bg=%239F9F9F&title_bg=%23737171&icon=&icon_color=%23E7E7E7&title=Welcome+to+my+workspace&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
